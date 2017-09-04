@@ -21,7 +21,7 @@ $(document).ready(function(){
 			.addClass("inputgroup_input-danger");
 	});
 	//inputgroup END
-
+	
 	//menusecond collapse
 	$(".btn_menusecond").click(function(){
 		$(".menusecond").toggle("slow");
